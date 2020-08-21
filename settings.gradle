@@ -1,0 +1,3 @@
+rootProject.name = "cabtripapp"
+include 'server'
+include 'client'
